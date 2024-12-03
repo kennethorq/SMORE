@@ -13,7 +13,7 @@
 This is the Pytorch implementation for our WSDM 2025 paper:
 
 >**[WSDM 2025]** Rongqing Kenneth Ong, Andy W. H Khong (2025). Spectrum-based Modality Representation Fusion Graph Convolutional Network for Multimodal Recommendation
-<img src="images/smore_framework.png" width="900px" height="300px"/>
+<img src="images/smore_framework.png" width="900px" height="250px"/>
 
 ## Enviroment Requirement
 - Python 3.7
