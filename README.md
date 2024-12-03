@@ -31,7 +31,7 @@ The data comprises text and image features extracted from Sentence-Transformers 
 Other parameters can be specified either via command line or by using the configuration files in `configs/model/SMORE.yaml` and `configs/dataset/*.yaml`.
 
 ## Performance Comparison
-<img src="images/smore_results.png" width="900px" height="265px"/>
+<img src="images/smore_results.png" width="800px" height="250px"/>
 
 ## Best hyperparameters for reproducibility
 We present the optimal hyperparameters for SMORE to replicate the results shown in Table 2 of our paper:  
@@ -44,7 +44,7 @@ We present the optimal hyperparameters for SMORE to replicate the results shown 
 
 
 ## Citing SMORE
-If you find SMORE useful in your research, please consider citing our [paper](www.google.com).
+If you find SMORE useful in your research, please consider citing our [paper](Nil).
 ```
 To be released in due time.
 ```
