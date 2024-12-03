@@ -4,7 +4,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/kennethorq/SMORE">
-    <img src="images/smore_logo.png" alt="Logo" width="500" height="250">
+    <img src="images/smore_logo.png" alt="Logo" width="400" height="200">
   </a>
 </div>
 
