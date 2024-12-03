@@ -32,7 +32,7 @@ Other parameters can be specified either via command line or by using the config
 
 ## Performance Comparison
 <div align="center">
-    <img src="images/smore_results.png" width="700px" height="275px">
+    <img src="images/smore_results.png" width="750px" height="300px">
 </div>
 
 
