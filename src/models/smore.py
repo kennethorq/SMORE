@@ -66,7 +66,7 @@ class SMORE(GeneralRecommender):
                 text_adj = torch.load(text_adj_file)
             else:
                 text_adj = build_sim(self.text_embedding.weight.detach())
-                text_adj = build_knn_normalized_graph(text_adj, topk=self.text_knn_k, is_sparse=self.sparse, norm_type='sym')   # Note, knn_k changed to modality k.
+                text_adj = build_knn_normalized_graph(text_adj, topk=self.text_knn_k, is_sparse=self.sparse, norm_type='sym')
                 torch.save(text_adj, text_adj_file)
             self.text_original_adj = text_adj.cuda() 
 

@@ -24,7 +24,7 @@ Download from Google Drive: [Baby/Sports/Clothing](https://drive.google.com/driv
 The data comprises text and image features extracted from Sentence-Transformers and CNN.  
 
 ## How to run
-1. Put your downloaded data (e.g. `baby`) under `data` dir.
+1. Place the downloaded data (e.g. `baby`) into the `data` directory.
 2. Enter `src` folder and run with  
 `python main.py -m SMORE -d baby`  
 
@@ -47,7 +47,7 @@ We present the optimal hyperparameters for SMORE to replicate the results shown 
 
 
 ## Citing SMORE
-If you find SMORE useful in your research, please consider citing our [paper](Nil).
+If you find SMORE useful in your research, please consider citing our [paper](https://doi.org/10.1145/3701551.3703561).
 ```
 To be released in due time.
 ```
