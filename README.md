@@ -25,7 +25,7 @@ The data comprises text and image features extracted from Sentence-Transformers 
 
 ## How to run
 1. Place the downloaded data (e.g. `baby`) into the `data` directory.
-2. Enter `src` folder and run with  
+2. Enter the `src` folder and execute the following command:  
 `python main.py -m SMORE -d baby`  
 
 Other parameters can be specified either via command line or by using the configuration files in `configs/model/SMORE.yaml` and `configs/dataset/*.yaml`.
