@@ -28,7 +28,7 @@ The data comprises text and image features extracted from Sentence-Transformers 
 2. Enter the `src` folder and execute the following command:  
 `python main.py -m SMORE -d baby`  
 
-Other parameters can be specified either via command line or by using the configuration files in `configs/model/SMORE.yaml` and `configs/dataset/*.yaml`.
+Other parameters can be set either through the command line or by using the configuration files located in `configs/model/SMORE.yaml` and `configs/dataset/*.yaml`.
 
 ## Performance Comparison
 <div align="center">
