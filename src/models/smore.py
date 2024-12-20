@@ -5,6 +5,8 @@ SMORE - Multi-modal Recommender System
 Reference:
     ACM WSDM 2025: Spectrum-based Modality Representation Fusion Graph Convolutional Network for Multimodal Recommendation
 
+Reference Code:
+    https://github.com/kennethorq/SMORE
 """
 
 import os

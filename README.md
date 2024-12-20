@@ -46,7 +46,7 @@ We present the optimal hyperparameters for SMORE to replicate the results shown 
 | Clothing  | 3           | 1        | 40           | 10          | 0.01       | 1e-05          | 0            |
 
 
-## Citing SMORE
+## Citation
 If you find SMORE useful in your research, please consider citing our [paper](https://arxiv.org/abs/2412.14978).
 ```
 
