@@ -47,9 +47,9 @@ We present the optimal hyperparameters for SMORE to replicate the results shown 
 
 
 ## Citing SMORE
-If you find SMORE useful in your research, please consider citing our [paper](https://doi.org/10.1145/3701551.3703561).
+If you find SMORE useful in your research, please consider citing our [paper](https://arxiv.org/abs/2412.14978).
 ```
-To be released in due time.
+
 ```
 This code is made available solely for academic research purposes.
 
